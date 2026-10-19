@@ -4,3 +4,9 @@
 - FFXIV switches to it automatically when it reconnects.
 - Remembers your choice and respects manual controller changes.
 - Turn automatic switching on or off, or select your controller with **Use now**.
+
+In-game repo:
+
+```text
+https://raw.githubusercontent.com/Arseeus2/Controller-Auto-Select/main/repo.json
+```

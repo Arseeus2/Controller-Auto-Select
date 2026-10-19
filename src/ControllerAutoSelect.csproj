@@ -2,8 +2,9 @@
   <PropertyGroup>
     <Version>1.0.0.0</Version>
     <AssemblyName>ControllerAutoSelect</AssemblyName>
-    <Author>Local development</Author>
+    <Author>Arseeus2</Author>
     <Name>Controller Auto Select</Name>
+    <RepoUrl>https://github.com/Arseeus2/Controller-Auto-Select</RepoUrl>
     <Punchline>Use your preferred controller when it connects.</Punchline>
     <Description>Choose a connected controller, and FFXIV switches to that controller after it connects in case of a disconnect. No more going to the System Settings every single time!</Description>
     <Tags>controller;gamepad</Tags>
