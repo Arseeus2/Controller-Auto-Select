@@ -1,0 +1,28 @@
+[
+  {
+    "Author": "Local development",
+    "Name": "Controller Auto Select",
+    "InternalName": "ControllerAutoSelect",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Choose a connected controller, and FFXIV switches to that controller after it connects in case of a disconnect. No more going to the System Settings every single time!",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "controller",
+      "gamepad"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": true,
+    "LoadPriority": 0,
+    "Punchline": "Use your preferred controller when it connects.",
+    "AcceptsFeedback": true,
+    "RepoUrl": "https://github.com/Arseeus2/Controller-Auto-Select",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://github.com/Arseeus2/Controller-Auto-Select/releases/download/v1.0.0.0/ControllerAutoSelect-1.0.0.0-dalamud.zip",
+    "DownloadLinkUpdate": "https://github.com/Arseeus2/Controller-Auto-Select/releases/download/v1.0.0.0/ControllerAutoSelect-1.0.0.0-dalamud.zip",
+    "DownloadLinkTesting": "https://github.com/Arseeus2/Controller-Auto-Select/releases/download/v1.0.0.0/ControllerAutoSelect-1.0.0.0-dalamud.zip",
+    "LastUpdate": 1792373062
+  }
+]
